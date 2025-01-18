@@ -69,6 +69,19 @@
 - MySQL Connector
 - Thymeleaf Extras Spring Security
 
+## Скриншоты
+### Главная страница регистрации
+![Главная страница](screenshots/register.png)
+
+### Успешная регистрация 
+![Добавление сотрудника](screenshots/successfuly.png)
+
+### Страница входа
+![Редактирование сотрудника](screenshots/login.png)
+
+### Страничка пользователя
+![Редактирование сотрудника](screenshots/logined.png)
+
 ### Автор
 - Cтудент **Александр Немеров**
 - Вуз **ВСГУТУ**
